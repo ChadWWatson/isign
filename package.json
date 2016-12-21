@@ -1,0 +1,19 @@
+{
+  "name": "isign",
+  "version": "1.0.0",
+  "description": "iSign International Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Watson",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.1.1"
+  }
+}
